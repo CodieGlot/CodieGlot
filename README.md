@@ -1,5 +1,5 @@
 ## Portfolio Page
-Recruiters can view my landing page [here](https://codie-landing-page.vercel.app/)
+Recruiters can view my landing page [here](https://codie-landing-page.vercel.app/).
 
 
 ## Getting Started
@@ -41,16 +41,16 @@ const MyProfile: ICandidateProfile = {
 
 ## Projects
 
-- **[Codie Landing Page](/projects/codie-landing-page)**: A website designed to showcase a programmer's skills, projects, and experience to potential employers or clients.
-- **[CSS Battle](/projects/css-battle)**: A web-based game that challenges users to write CSS code to replicate a given design, with the goal of improving CSS skills and competing with other players.
-- **[Movie Landing Page](/projects/movie-landing-page)**: A web page designed to promote a movie by including information about trailers and posters, and stills, along with user-generated comments and reviews to provide social proof and build credibility with potential viewers.
-- **[Solana Todo App](/projects/solana-todo-app)**: A decentralized application that utilizes blockchain technology to create a transparent, secure, and immutable task management system that allows users to create, track, and update their tasks in a decentralized manner, with no central authority controlling the data.
-- **[Chinese Chess Game](/projects/chinese-chess-game)**: A computer program that allows users to play with each other, with features such as board visualization, move validation, and game state persistence.
+- **[Codie Landing Page](https://github.com/CodieGlot/codie-landing-page)**: A website designed to showcase a programmer's skills, projects, and experience to potential employers or clients.
+- **[CSS Battle](https://github.com/CodieGlot/css-battle)**: A web-based game that challenges users to write CSS code to replicate a given design, with the goal of improving CSS skills and competing with other players.
+- **[Movie Landing Page](https://github.com/CodieGlot/ssg-server)**: A web page designed to promote a movie by including information about trailers and posters, and stills, along with user-generated comments and reviews to provide social proof and build credibility with potential viewers.
+- **[Solana Todo App](https://github.com/CodieGlot/solana-todo-app)**: A decentralized application that utilizes blockchain technology to create a transparent, secure, and immutable task management system that allows users to create, track, and update their tasks in a decentralized manner, with no central authority controlling the data.
+- **[Chinese Chess Game](https://github.com/CodieGlot/ChineseChess)**: A computer program that allows users to play with each other, with features such as board visualization, move validation, and game state persistence.
 
 ## Starter Repositories
 
-- **[NestJs Starter Repo](/starter-repos/nestjs-starter-repo)**: A codebase that provides a basic structure and preconfigured features to help developers quickly bootstrap a NestJS project, including modules, controllers, services, middleware, and testing utilities.
-- **[ReactJs Starter Repo](/starter-repos/reactjs-starter-repo)**: A codebase that provides a basic structure and preconfigured features to help developers quickly bootstrap a React project, including a set of reusable UI components, routing, state management, testing utilities, and build automation tools.
+- **[NestJs Starter Repo](https://github.com/CodieGlot/nestjs-starter-repo)**: A codebase that provides a basic structure and preconfigured features to help developers quickly bootstrap a NestJS project, including modules, controllers, services, middleware, and testing utilities.
+- **[ReactJs Starter Repo](https://github.com/CodieGlot/reactjs-starter-repo)**: A codebase that provides a basic structure and preconfigured features to help developers quickly bootstrap a React project, including a set of reusable UI components, routing, state management, testing utilities, and build automation tools.
 
 > **NOTE** For more detailed information on each project, simply click on the project name.
 
