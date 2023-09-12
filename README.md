@@ -1,3 +1,7 @@
+## Portfolio Page
+Recruiters can view my landing page [here](https://codie-landing-page.vercel.app/)
+
+
 ## Getting Started
 
 ```bash
