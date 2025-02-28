@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Codie Nguyen
 
 Welcome to my GitHub! I'm a passionate Software Developer working on **global products** and **AI-driven applications**, specializing in backend development with **ASP.NET Core**, frontend with **React**, and **products that utilize AI**.
 
@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a passionate Software Developer working on **global pr
 ## 📫 Let's Connect!
 Feel free to reach out! I'm always open to new opportunities, collaborations, and discussions about technology and innovation.
 
-- 📧 Email: [ngnhathuy1224@gmail.com]
+- 📧 Email: ngnhathuy1224@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/codieglot/)
 - 🏆 LeetCode: [LeetCode Profile](https://leetcode.com/u/ngnhathuy1224/)
 
