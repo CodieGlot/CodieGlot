@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate Software Developer working on **global pr
 
 ## 🚀 Technical Skills
 ### Backend:
-- **ASP.NET Core** | C# | .NET 8 | Entity Framework Core
+- **ASP.NET Core** | C# | .NET 9 | Entity Framework Core
 - Python | Java
 - Database Management: **SQL Server, MongoDB, PostgreSQL**
 
