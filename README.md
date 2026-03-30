@@ -11,8 +11,8 @@ Welcome to my GitHub! I'm a passionate Software Developer working on **global pr
 
 ## 🚀 Technical Skills
 ### Backend:
-- **ASP.NET Core** | C# | .NET 9 | Entity Framework Core
-- Python | Java
+- **ASP.NET Core** | C# | .NET Core | Entity Framework Core
+- Node.js | Python | Java
 - Database Management: **SQL Server, MongoDB, PostgreSQL**
 
 ### Frontend:
@@ -28,7 +28,6 @@ Welcome to my GitHub! I'm a passionate Software Developer working on **global pr
 ## 📫 Let's Connect!
 Feel free to reach out! I'm always open to new opportunities, collaborations, and discussions about technology and innovation.
 
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/codieglot/)
 - 🏆 LeetCode: [LeetCode Profile](https://leetcode.com/u/ngnhathuy1224/)
 
 Thanks for stopping by! 🚀 Happy coding! 😊
